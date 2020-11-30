@@ -10,3 +10,10 @@ Uses:
 * Github
 * circleCI
 * python virtual environments
+
+
+The following code cleaning/testing practices are demonstrated:
+
+* linting (code analyzing) with flake8
+* unit testing with pytest
+* calculating code coverage with pytest-cov
