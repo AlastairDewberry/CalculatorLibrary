@@ -1,0 +1,5 @@
+# pytest? cache
+__pycache__/
+
+# pytest artifacts
+*.pyc
