@@ -3,8 +3,7 @@
 # ignore bin/ folder
 bin/
 
-# pytest? cache
-__pycache__/
-
 # pytest artifacts
+__pycache__/
 *.pyc
+.coverage
