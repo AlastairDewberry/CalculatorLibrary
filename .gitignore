@@ -1,0 +1,9 @@
+# Ignore file for python calculator CI demo
+
+# ignore bin/ folder
+bin/
+
+# pytest artifacts
+__pycache__/
+*.pyc
+.coverage
