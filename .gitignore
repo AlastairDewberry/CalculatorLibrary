@@ -1,3 +1,8 @@
+# Ignore file for python calculator CI demo
+
+# ignore bin/ folder
+bin/
+
 # pytest? cache
 __pycache__/
 
